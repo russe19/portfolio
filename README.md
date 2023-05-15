@@ -1,6 +1,6 @@
 # Многостраничный сайт портфолио
 
-![image](https://github.com/russe19/portfolio/assets/116742525/70bf58ff-ccd5-4c5f-9035-f26aa3681774)
+![image](https://github.com/russe19/portfolio/assets/116742525/a512d634-2811-42b5-b739-8d4cd1b099a0)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
