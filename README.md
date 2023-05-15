@@ -1,9 +1,15 @@
 # Многостраничный сайт портфолио
-
+ Сайт-портфолио реализованный на React с помощью функциональных компонентов.
+ 
 ![image](https://github.com/russe19/portfolio/assets/116742525/a512d634-2811-42b5-b739-8d4cd1b099a0)
+<img src="https://github.com/russe19/portfolio/assets/116742525/a512d634-2811-42b5-b739-8d4cd1b099a0" width="200" />
 
+На сайте можно посмотреть список со всеми реализованными проектами
+![image](https://github.com/russe19/portfolio/assets/116742525/e922e305-31e3-4776-b5d7-3b00abc8e9a4)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+А также перейти на детальную страницу каждого проекта
+![image](https://github.com/russe19/portfolio/assets/116742525/b4822072-d72c-464c-93d8-b9a18f4bc9be)
+
 
 ## Available Scripts
 
